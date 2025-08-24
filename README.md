@@ -3,7 +3,7 @@
 A simple HTML, CSS & JavaScript drum kit. Play sounds by pressing keys or clicking on-screen buttons, with visual feedback for each hit. Great for learning DOM events, audio playback, and basic animations.
 
 ## 🚀 Demo
-[Live Demo](#) <!-- Replace # with your GitHub Pages or hosting link -->
+[Live Demo](https://code0ut.github.io/Drum_website/) <!-- Replace # with your GitHub Pages or hosting link -->
 
 ## 📂 Features
 - **Keyboard Controls** – Press specific keys to trigger drum sounds.
